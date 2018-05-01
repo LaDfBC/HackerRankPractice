@@ -59,5 +59,5 @@ public class WordSearch {
         seen[i][j] = false;
         return false;
     }
-    
+
 }
