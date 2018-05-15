@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * LeetCode #366
- * 
+ *
  * O(4nlgn) = O(nlgn)
  *
  * 2 runs - first, insert it into the Trie.  THEN, on the second walkthrough, doing it in reverse and
